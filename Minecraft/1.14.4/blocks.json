@@ -5547,7 +5547,7 @@
       600
     ],
     "diggable": true,
-    "transparent": true,
+    "transparent": false,
     "filterLight": 0,
     "emitLight": 9,
     "boundingBox": "block",
