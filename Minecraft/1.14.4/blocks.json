@@ -309,7 +309,7 @@
     "boundingBox": "block",
     "stackSize": 64,
     "material": "dirt",
-    "minStateId": 13,
+    "defaultState": 12,
     "resistance": 0.5
   },
   {
