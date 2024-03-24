@@ -3654,7 +3654,7 @@
       98
     ],
     "diggable": true,
-    "transparent": false,
+    "transparent": true,
     "filterLight": 15,
     "emitLight": 0,
     "boundingBox": "empty",
@@ -3675,7 +3675,7 @@
       99
     ],
     "diggable": true,
-    "transparent": false,
+    "transparent": true,
     "filterLight": 15,
     "emitLight": 0,
     "boundingBox": "empty",
@@ -3717,7 +3717,7 @@
       101
     ],
     "diggable": true,
-    "transparent": false,
+    "transparent": true,
     "filterLight": 15,
     "emitLight": 0,
     "boundingBox": "empty",
@@ -3738,7 +3738,7 @@
       102
     ],
     "diggable": true,
-    "transparent": false,
+    "transparent": true,
     "filterLight": 15,
     "emitLight": 0,
     "boundingBox": "empty",
@@ -3843,7 +3843,7 @@
       107
     ],
     "diggable": true,
-    "transparent": false,
+    "transparent": true,
     "filterLight": 15,
     "emitLight": 0,
     "boundingBox": "empty",
@@ -13102,7 +13102,7 @@
       326
     ],
     "diggable": true,
-    "transparent": false,
+    "transparent": true,
     "filterLight": 15,
     "emitLight": 0,
     "boundingBox": "empty",
